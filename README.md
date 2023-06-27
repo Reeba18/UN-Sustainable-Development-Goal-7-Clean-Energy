@@ -6,7 +6,7 @@ The project takes into consideration the global scenario, Canada's ambitions and
 and recommendations based on the analysis.
 The datasets used in this project are sourced from Government of Canada website. It includes information on renewable and non-renewable energy production, energy consumption, energy savings, electricity generation, investments and green house gas emissions.
 
-Tools : MS Excel,Powerpoint,SQL,Python and Tableau
+Tools : MS Excel,PowerPoint,SQL and Tableau
 
 Exploratory Data Analysis has been carried out and the key findings were presented. 
 

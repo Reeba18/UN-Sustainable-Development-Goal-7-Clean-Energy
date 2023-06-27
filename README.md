@@ -8,4 +8,6 @@ The datasets used in this project are sourced from Government of Canada website.
 
 Tools : MS Excel,Powerpoint,SQL,Python and Tableau
 
+Exploratory Data Analysis has been carried out and the key findings were presented. 
+
 

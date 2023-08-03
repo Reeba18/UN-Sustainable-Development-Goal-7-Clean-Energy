@@ -9,5 +9,6 @@ The datasets used in this project are sourced from Government of Canada website.
 Tools : MS Excel,PowerPoint,SQL and Tableau
 
 Exploratory Data Analysis has been carried out and the key findings were presented. 
+This project was done in collaboration with Vipul Soni and Jyoti Singh (Team Jarvis).
 
 
